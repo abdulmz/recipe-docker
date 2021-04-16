@@ -1,4 +1,4 @@
 # recipe-docker
 Containerization of the Recipe Management Application
 
-![API Design Architecture](https://github.com/abdulmz/recipe-docker/blob/main/api.png=250x250)
+![API Design Architecture](https://github.com/abdulmz/recipe-docker/blob/main/api.png =250x250)
